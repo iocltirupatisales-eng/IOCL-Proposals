@@ -1,0 +1,6 @@
+{
+  "name": "Retail Outlet Proposal Generator",
+  "description": "Multi-template executive proposal note system for Retail Outlet (RO) development with suggested Excel schemas, automated note generation, and Google Drive cloud archival & retrieval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
